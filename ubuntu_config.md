@@ -55,4 +55,6 @@ $pip install requests
 check ubuntu version:
 ```cat /etc/os-release
 ```
+## DEV-IDE
 
+https://code.visualstudio.com/docs/setup/linux
