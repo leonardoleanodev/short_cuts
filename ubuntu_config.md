@@ -25,8 +25,7 @@ $ sudo sh install.sh
 ```
 configure:
 edit ".bashrc"
-```$ vim .bashrc
-```
+```$ vim .bashrc```
 add at the end:
 ```
 exec zsh
