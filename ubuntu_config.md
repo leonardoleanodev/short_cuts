@@ -11,7 +11,8 @@ LANG="en_US.UTF-8"
 LANGUAGE="en_US:en:en"
 #LANGUAGE="pt_BR:pt:en"
 ```
-## tools
+
+## Tools
 
 ### OhMyZsh
 tool for shurtcuts in terminal, it add agility in coding or executing comands in terminal
@@ -32,4 +33,26 @@ exec zsh
 ```
 plugins:
 
+## apt-get packages
+
+### virtualenv
+virtual enviroment 
+```$sudo apt-get install virtualenv
+```
+common use seting python3.6?
+```$virtualenv --python=python3.6 venv
+```
+## Use full python tools
+
+I have to make a requiriment for this
+```
+$pip install flake8
+$pip install requests
+```
+
+## Usefull commands 
+
+check ubuntu version:
+```cat /etc/os-release
+```
 
