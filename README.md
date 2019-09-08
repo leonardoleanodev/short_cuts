@@ -1,4 +1,4 @@
-# ubuntu configurations
+# Ubuntu configurations
 
 ## Customize
 
