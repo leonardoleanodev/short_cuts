@@ -26,21 +26,25 @@ $ sudo sh install.sh
 ```
 configure:
 edit ".bashrc"
-```$ vim .bashrc```
+`
+$ vim .bashrc
+`
 add at the end:
-```
+`
 exec zsh
-```
+`
 plugins:
 
 ## apt-get packages
 
 ### virtualenv
 virtual enviroment 
-```$sudo apt-get install virtualenv
+```
+$sudo apt-get install virtualenv
 ```
 common use seting python3.6?
-```$virtualenv --python=python3.6 venv
+```
+$virtualenv --python=python3.6 venv
 ```
 ## Use full python tools
 
@@ -53,7 +57,8 @@ $pip install requests
 ## Usefull commands 
 
 check ubuntu version:
-```cat /etc/os-release
+```
+cat /etc/os-release
 ```
 ## DEV-IDE
 
