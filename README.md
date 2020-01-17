@@ -63,3 +63,8 @@ cat /etc/os-release
 ## DEV-IDE
 
 https://code.visualstudio.com/docs/setup/linux
+
+## Docker installation
+Container generator and administrator
+https://docs.docker.com/install/linux/docker-ce/ubuntu/
+
