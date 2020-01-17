@@ -42,13 +42,13 @@ virtual enviroment
 ```
 $sudo apt-get install virtualenv
 ```
-common use seting python3.6?
+common use setting python3.7?
 ```
-$virtualenv --python=python3.6 venv
+$virtualenv --python=python3.7 venv
 ```
 ## Use full python tools
 
-I have to make a requiriment for this
+I have to make a requirement for this
 ```
 $pip install flake8
 $pip install requests
