@@ -56,10 +56,17 @@ $pip install requests
 
 ## Usefull commands 
 
-check ubuntu version:
+**check ubuntu version:**
 ```
 cat /etc/os-release
 ```
+
+**awk pattern scanning and processing language:**
+```
+awk -F'<separator>' '{ print $<index to be listed> }' <dir>
+```
+ref: https://www.cyberciti.biz/faq/bash-scripting-using-awk/
+
 ## DEV-IDE
 
 https://code.visualstudio.com/docs/setup/linux
