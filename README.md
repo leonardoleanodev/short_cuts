@@ -75,3 +75,6 @@ https://code.visualstudio.com/docs/setup/linux
 Container generator and administrator
 https://docs.docker.com/install/linux/docker-ce/ubuntu/
 
+## References to be agregated:
+https://linoxide.com/linux-how-to/commands-clear-linux-terminal/
+
