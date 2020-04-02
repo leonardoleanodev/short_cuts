@@ -75,6 +75,12 @@ https://code.visualstudio.com/docs/setup/linux
 Container generator and administrator
 https://docs.docker.com/install/linux/docker-ce/ubuntu/
 
-## References to be agregated:
+## References to be agregated and studie:
+
+https://linuxconfig.org/bash-scripting-tutorial-for-beginners
+(Relative vs Absolute Path)
+https://aurelio.net/shell/canivete/
 https://linoxide.com/linux-how-to/commands-clear-linux-terminal/
+
+
 
