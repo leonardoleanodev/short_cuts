@@ -77,10 +77,10 @@ https://docs.docker.com/install/linux/docker-ce/ubuntu/
 
 ## References to be agregated and studie:
 
-https://linuxconfig.org/bash-scripting-tutorial-for-beginners
+<p>https://linuxconfig.org/bash-scripting-tutorial-for-beginners
 (Relative vs Absolute Path)
-https://aurelio.net/shell/canivete/
-https://linoxide.com/linux-how-to/commands-clear-linux-terminal/
-
+<p>https://aurelio.net/shell/canivete/
+<p>https://linoxide.com/linux-how-to/commands-clear-linux-terminal/
+<p>https://docs.authlib.org/en/latest/client/oauth2.html 
 
 
