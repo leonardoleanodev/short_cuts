@@ -13,6 +13,6 @@ SELECT
 FROM
 	pg_stat_activity
 WHERE
-	pg_stat_activity.datname = 'autosky'
+	pg_stat_activity.datname = 'dataname'
 	AND pid <> pg_backend_pid();
 ```
