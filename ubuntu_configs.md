@@ -8,6 +8,10 @@ install vim
 ```
 $ sudo apt-get install vim
 ```
+install terminator:
+```
+sudo apt-get install terminator
+```
 right affter:
 edit: `vim /etc/default/locale`
 ```
