@@ -6,13 +6,13 @@
 `CREATE DATABASE nome_banco;`
 ## RESTORE
 ```
-psql -U usaurio -d nome_banco -h host  < backup_dev.sql
+psql -U user -d db_name -h host  < backup_dev.sql
 
 SELECT
-	pg_terminate_backend(pg_stat_activity.pid)
+    pg_terminate_backend(pg_stat_activity.pid)
 FROM
-	pg_stat_activity
+    pg_stat_activity
 WHERE
-	pg_stat_activity.datname = 'dataname'
-	AND pid <> pg_backend_pid();
+    pg_stat_activity.datname = 'dataname'
+    AND pid <> pg_backend_pid();
 ```
